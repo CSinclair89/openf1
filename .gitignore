@@ -130,3 +130,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+src/openf1/services/ingestor_livetiming/historical/ingest_data.py
