@@ -1,0 +1,16 @@
+{
+  "name": "race-data-web",
+  "version": "1.0.0",
+  "description": "A web project to organize and display race data, including drivers and race results.",
+  "main": "src/site/index.html",
+  "scripts": {
+    "start": "live-server src/site",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'Test step not defined'"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
