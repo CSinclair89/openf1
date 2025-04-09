@@ -1,35 +1,71 @@
 fetch('../data/race_data.json')
     .then(response => response.json())
     .then(data => {
-        // drivers
         const driversList = document.getElementById('drivers');
-        if (driversList) {
-            const drivers = new Map();
+        const sortOptions = document.getElementById('sort-options');
+        const driverMap = new Map(); 
+       
 
+        if (driversList) {
             data.forEach(entry => {
                 if (entry.full_name && entry.driver_number && entry.headshot_url && entry.team_name) {
-                    drivers.set(entry.driver_number, {
-                        name: entry.full_name,
-                        team: entry.team_name,
-                        photo: entry.headshot_url,
-                        number: entry.driver_number
-                    });
+                    if (!driverMap.has(entry.driver_number)) {
+                        driverMap.set(entry.driver_number, {
+                            name: entry.full_name,
+                            team: entry.team_name,
+                            photo: entry.headshot_url,
+                            number: entry.driver_number
+                        });
+                    }
                 }
             });
 
-            drivers.forEach(driver => {
-                const listItem = document.createElement('li');
-                listItem.innerHTML = `
-                    <img src="${driver.photo}" alt="${driver.name}">
-                    <strong>${driver.name}</strong><span class="gap"> (Number: ${driver.number})<br>
-                    Team: ${driver.team}
-                `;
-                driversList.appendChild(listItem);
+            const driverList = Array.from(driverMap.values());
+
+            const renderDrivers = (sortedDrivers) => {
+                driversList.innerHTML = ''; 
+                sortedDrivers.forEach(driver => {
+                    const listItem = document.createElement('li');
+                    listItem.innerHTML = `
+                        <img src="${driver.photo}" alt="${driver.name}">
+                        <strong>${driver.name}</strong> (Number: ${driver.number})<br>
+                        Team: ${driver.team}
+                    `;
+                    driversList.appendChild(listItem);
+                });
+            };
+
+            const sortByNumber = () => driverList.sort((a, b) => a.number - b.number);
+
+            const sortByName = () => driverList.sort((a, b) => {
+                const lastNameA = a.name.split(' ').slice(-1)[0].toLowerCase();
+                const lastNameB = b.name.split(' ').slice(-1)[0].toLowerCase();
+                return lastNameA.localeCompare(lastNameB);
             });
+
+            const sortByTeam = () => driverList.sort((a, b) => a.team.localeCompare(b.team));
+
+            if (sortOptions) {
+                sortOptions.addEventListener('change', (event) => {
+                    if (event.target.value === 'number') {
+                        sortByNumber();
+                    } else if (event.target.value === 'name') {
+                        sortByName();
+                    } else if (event.target.value === 'team') {
+                        sortByTeam();
+                    }
+                    renderDrivers(driverList);
+                });
+            }
+
+            // this is the default when loading the page (just sorts by number)
+            sortByNumber();
+            renderDrivers(driverList);
         }
 
-        // races
+        // Races Section
         const racesList = document.getElementById('races');
+        const toggleRaces = document.getElementById('toggle-races');
         if (racesList) {
             const races = new Map();
 
@@ -50,22 +86,88 @@ fetch('../data/race_data.json')
                 }
             });
 
-            races.forEach((race, sessionKey) => {
-                const listItem = document.createElement('li');
-                listItem.innerHTML = `
-                    <strong>${race.location} (${race.year})</strong><br>
-                    Session Type: ${race.sessionType}<br>
-                    Drivers:<br>
-                    <ul>
-                        ${race.drivers
-                            .map(
-                                driver =>
-                                    `<li>${driver.name} - Position: ${driver.position}</li>`
-                            )
-                            .join('')}
-                    </ul>
-                `;
-                racesList.appendChild(listItem);
+            const renderRaces = (filterByRace = false) => {
+                racesList.innerHTML = ''; 
+                races.forEach((race, sessionKey) => {
+                    if (filterByRace && race.sessionType.toLowerCase() !== 'race') {
+                        return;
+                    }
+        
+                    // Sort drivers by position (ascending)
+                    race.drivers.sort((a, b) => a.position - b.position);
+        
+                    const listItem = document.createElement('li');
+                    listItem.innerHTML = `
+                        <strong>${race.location} (${race.year})</strong><br>
+                        Session Type: ${race.sessionType}<br>
+                        Drivers:<br>
+                        <ul>
+                            ${race.drivers
+                                .map(
+                                    driver =>
+                                        `<li>${driver.name} - Position: ${driver.position}</li>`
+                                )
+                                .join('')}
+                        </ul>
+                    `;
+                    racesList.appendChild(listItem);
+                });
+            };
+            //init state
+            renderRaces();
+
+            toggleRaces.addEventListener('change', (event) => {
+                renderRaces(event.target.checked); 
+            });
+        }
+
+
+        // Graph on Home Page
+        const placements = {};
+
+        data.forEach(entry => {
+            const driver = entry.full_name;
+            const position = entry.position;
+
+            if (!placements[driver]) {
+                placements[driver] = [];
+            }
+            placements[driver].push(position);
+        });
+
+        const averagePositions = Object.keys(placements).map(driver => {
+            const total = placements[driver].reduce((sum, pos) => sum + pos, 0);
+            const avg = total / placements[driver].length;
+            return { driver, avg };
+        });
+
+        averagePositions.sort((a, b) => a.avg - b.avg);
+
+        const drivers = averagePositions.map(item => item.driver);
+        const averages = averagePositions.map(item => item.avg);
+
+        const ctx = document.getElementById('driverPerformanceChart')?.getContext('2d');
+        if (ctx) {
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: drivers,
+                    datasets: [{
+                        label: 'Average Position',
+                        data: averages,
+                        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                        }
+                    }
+                }
             });
         }
     })
