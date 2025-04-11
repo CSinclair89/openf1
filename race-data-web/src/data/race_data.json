@@ -1,806 +1,486 @@
 [{
   "_id": {
-    "$oid": "67db188a0cddb9887f2b6399"
+    "$oid": "67f8b18d30982c1832f2c7ad"
   },
   "session_key": 7775,
   "session_type": "Qualifying",
   "position": 15,
   "driver_number": 1,
   "full_name": "Max VERSTAPPEN",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Red Bull Racing",
   "lap_number": 6,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b639a"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 20,
-  "driver_number": 2,
-  "full_name": "Logan SARGEANT",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 8,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b639b"
+    "$oid": "67f8b18d30982c1832f2c7ae"
   },
   "session_key": 7775,
   "session_type": "Qualifying",
   "position": 19,
   "driver_number": 4,
   "full_name": "Lando NORRIS",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "McLaren",
   "lap_number": 4,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b639c"
+    "$oid": "67f8b18d30982c1832f2c7af"
   },
   "session_key": 7775,
   "session_type": "Qualifying",
   "position": 10,
   "driver_number": 10,
   "full_name": "Pierre GASLY",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Alpine",
   "lap_number": 23,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b639d"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 1,
-  "driver_number": 11,
-  "full_name": "Sergio PEREZ",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 18,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b639e"
+    "$oid": "67f8b18d30982c1832f2c7b0"
   },
   "session_key": 7775,
   "session_type": "Qualifying",
   "position": 3,
   "driver_number": 14,
   "full_name": "Fernando ALONSO",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Aston Martin",
   "lap_number": 18,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b639f"
+    "$oid": "67f8b18d30982c1832f2c7b1"
   },
   "session_key": 7775,
   "session_type": "Qualifying",
   "position": 2,
   "driver_number": 16,
   "full_name": "Charles LECLERC",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Ferrari",
   "lap_number": 19,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63a0"
+    "$oid": "67f8b18d30982c1832f2c7b2"
   },
   "session_key": 7775,
   "session_type": "Qualifying",
   "position": 6,
   "driver_number": 18,
   "full_name": "Lance STROLL",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Aston Martin",
   "lap_number": 20,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63a1"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 13,
-  "driver_number": 20,
-  "full_name": "Kevin MAGNUSSEN",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 17,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63a2"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 18,
-  "driver_number": 21,
-  "full_name": "Nyck DE VRIES",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 10,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63a3"
+    "$oid": "67f8b18d30982c1832f2c7b3"
   },
   "session_key": 7775,
   "session_type": "Qualifying",
   "position": 16,
   "driver_number": 22,
   "full_name": "Yuki TSUNODA",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "AlphaTauri",
   "lap_number": 10,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63a4"
+    "$oid": "67f8b18d30982c1832f2c7b4"
   },
   "session_key": 7775,
   "session_type": "Qualifying",
   "position": 17,
   "driver_number": 23,
   "full_name": "Alexander ALBON",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Williams",
   "lap_number": 9,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63a5"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 12,
-  "driver_number": 24,
-  "full_name": "ZHOU Guanyu",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 18,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63a6"
+    "$oid": "67f8b18d30982c1832f2c7b5"
   },
   "session_key": 7775,
   "session_type": "Qualifying",
   "position": 11,
   "driver_number": 27,
   "full_name": "Nico HULKENBERG",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Haas F1 Team",
   "lap_number": 18,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/N/NICHUL01_Nico_Hulkenberg/nichul01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63a7"
+    "$oid": "67f8b18d30982c1832f2c7b6"
   },
   "session_key": 7775,
   "session_type": "Qualifying",
   "position": 7,
   "driver_number": 31,
   "full_name": "Esteban OCON",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Alpine",
   "lap_number": 24,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63a8"
+    "$oid": "67f8b18d30982c1832f2c7b7"
   },
   "session_key": 7775,
   "session_type": "Qualifying",
   "position": 8,
   "driver_number": 44,
   "full_name": "Lewis HAMILTON",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Mercedes",
   "lap_number": 21,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63a9"
+    "$oid": "67f8b18d30982c1832f2c7b8"
   },
   "session_key": 7775,
   "session_type": "Qualifying",
   "position": 5,
   "driver_number": 55,
   "full_name": "Carlos SAINZ",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Ferrari",
   "lap_number": 24,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63aa"
+    "$oid": "67f8b18d30982c1832f2c7b9"
   },
   "session_key": 7775,
   "session_type": "Qualifying",
   "position": 4,
   "driver_number": 63,
   "full_name": "George RUSSELL",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Mercedes",
   "lap_number": 21,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63ab"
+    "$oid": "67f8b18d30982c1832f2c7ba"
   },
   "session_key": 7775,
   "session_type": "Qualifying",
   "position": 14,
   "driver_number": 77,
   "full_name": "Valtteri BOTTAS",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Alfa Romeo",
   "lap_number": 18,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63ac"
+    "$oid": "67f8b18d30982c1832f2c7bb"
   },
   "session_key": 7775,
   "session_type": "Qualifying",
   "position": 9,
   "driver_number": 81,
   "full_name": "Oscar PIASTRI",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "McLaren",
   "lap_number": 23,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/O/OSCPIA01_Oscar_Piastri/oscpia01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63ad"
+    "$oid": "67f8b18d30982c1832f2c7bc"
   },
   "session_key": 7779,
   "session_type": "Race",
   "position": 2,
   "driver_number": 1,
   "full_name": "Max VERSTAPPEN",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Red Bull Racing",
   "lap_number": 50,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63ae"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 16,
-  "driver_number": 2,
-  "full_name": "Logan SARGEANT",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63af"
+    "$oid": "67f8b18d30982c1832f2c7bd"
   },
   "session_key": 7779,
   "session_type": "Race",
   "position": 17,
   "driver_number": 4,
   "full_name": "Lando NORRIS",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "McLaren",
   "lap_number": 50,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63b0"
+    "$oid": "67f8b18d30982c1832f2c7be"
   },
   "session_key": 7779,
   "session_type": "Race",
   "position": 9,
   "driver_number": 10,
   "full_name": "Pierre GASLY",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Alpine",
   "lap_number": 50,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63b1"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 1,
-  "driver_number": 11,
-  "full_name": "Sergio PEREZ",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63b2"
+    "$oid": "67f8b18d30982c1832f2c7bf"
   },
   "session_key": 7779,
   "session_type": "Race",
   "position": 3,
   "driver_number": 14,
   "full_name": "Fernando ALONSO",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Aston Martin",
   "lap_number": 50,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63b3"
+    "$oid": "67f8b18d30982c1832f2c7c0"
   },
   "session_key": 7779,
   "session_type": "Race",
   "position": 7,
   "driver_number": 16,
   "full_name": "Charles LECLERC",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Ferrari",
   "lap_number": 50,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63b4"
+    "$oid": "67f8b18d30982c1832f2c7c1"
   },
   "session_key": 7779,
   "session_type": "Race",
   "position": 20,
   "driver_number": 18,
   "full_name": "Lance STROLL",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Aston Martin",
   "lap_number": 17,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63b5"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 10,
-  "driver_number": 20,
-  "full_name": "Kevin MAGNUSSEN",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63b6"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 14,
-  "driver_number": 21,
-  "full_name": "Nyck DE VRIES",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63b7"
+    "$oid": "67f8b18d30982c1832f2c7c2"
   },
   "session_key": 7779,
   "session_type": "Race",
   "position": 11,
   "driver_number": 22,
   "full_name": "Yuki TSUNODA",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "AlphaTauri",
   "lap_number": 50,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63b8"
+    "$oid": "67f8b18d30982c1832f2c7c3"
   },
   "session_key": 7779,
   "session_type": "Race",
   "position": 19,
   "driver_number": 23,
   "full_name": "Alexander ALBON",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Williams",
   "lap_number": 27,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63b9"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 13,
-  "driver_number": 24,
-  "full_name": "ZHOU Guanyu",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63ba"
+    "$oid": "67f8b18d30982c1832f2c7c4"
   },
   "session_key": 7779,
   "session_type": "Race",
   "position": 12,
   "driver_number": 27,
   "full_name": "Nico HULKENBERG",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Haas F1 Team",
   "lap_number": 50,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/N/NICHUL01_Nico_Hulkenberg/nichul01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63bb"
+    "$oid": "67f8b18d30982c1832f2c7c5"
   },
   "session_key": 7779,
   "session_type": "Race",
   "position": 8,
   "driver_number": 31,
   "full_name": "Esteban OCON",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Alpine",
   "lap_number": 50,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63bc"
+    "$oid": "67f8b18d30982c1832f2c7c6"
   },
   "session_key": 7779,
   "session_type": "Race",
   "position": 5,
   "driver_number": 44,
   "full_name": "Lewis HAMILTON",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Mercedes",
   "lap_number": 50,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63bd"
+    "$oid": "67f8b18d30982c1832f2c7c7"
   },
   "session_key": 7779,
   "session_type": "Race",
   "position": 6,
   "driver_number": 55,
   "full_name": "Carlos SAINZ",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Ferrari",
   "lap_number": 50,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63be"
+    "$oid": "67f8b18d30982c1832f2c7c8"
   },
   "session_key": 7779,
   "session_type": "Race",
   "position": 4,
   "driver_number": 63,
   "full_name": "George RUSSELL",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Mercedes",
   "lap_number": 50,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63bf"
+    "$oid": "67f8b18d30982c1832f2c7c9"
   },
   "session_key": 7779,
   "session_type": "Race",
   "position": 18,
   "driver_number": 77,
   "full_name": "Valtteri BOTTAS",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "Alfa Romeo",
   "lap_number": 49,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63c0"
+    "$oid": "67f8b18d30982c1832f2c7ca"
   },
   "session_key": 7779,
   "session_type": "Race",
   "position": 15,
   "driver_number": 81,
   "full_name": "Oscar PIASTRI",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
+  "team_name": "McLaren",
   "lap_number": 50,
   "circuit_key": 149,
   "location": "Jeddah",
   "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
+  "headshot_url": "https://www.formula1.com/content/dam/fom-website/drivers/O/OSCPIA01_Oscar_Piastri/oscpia01.png.transform/1col/image.png"
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63c1"
+    "$oid": "67f8b18d30982c1832f2c7cb"
   },
   "session_key": 9476,
   "session_type": "Qualifying",
@@ -816,39 +496,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63c2"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 19,
-  "driver_number": 2,
-  "full_name": "Logan SARGEANT",
-  "team_name": "Williams",
-  "lap_number": 9,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LOGSAR01_Logan_Sargeant/logsar01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63c3"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 14,
-  "driver_number": 3,
-  "full_name": "Daniel RICCIARDO",
-  "team_name": "RB",
-  "lap_number": 12,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63c4"
+    "$oid": "67f8b18d30982c1832f2c7cc"
   },
   "session_key": 9476,
   "session_type": "Qualifying",
@@ -864,7 +512,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63c5"
+    "$oid": "67f8b18d30982c1832f2c7cd"
   },
   "session_key": 9476,
   "session_type": "Qualifying",
@@ -880,23 +528,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63c6"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 3,
-  "driver_number": 11,
-  "full_name": "Sergio PEREZ",
-  "team_name": "Red Bull Racing",
-  "lap_number": 19,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63c7"
+    "$oid": "67f8b18d30982c1832f2c7ce"
   },
   "session_key": 9476,
   "session_type": "Qualifying",
@@ -912,7 +544,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63c8"
+    "$oid": "67f8b18d30982c1832f2c7cf"
   },
   "session_key": 9476,
   "session_type": "Qualifying",
@@ -928,7 +560,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63c9"
+    "$oid": "67f8b18d30982c1832f2c7d0"
   },
   "session_key": 9476,
   "session_type": "Qualifying",
@@ -944,23 +576,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63ca"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 13,
-  "driver_number": 20,
-  "full_name": "Kevin MAGNUSSEN",
-  "team_name": "Haas F1 Team",
-  "lap_number": 17,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63cb"
+    "$oid": "67f8b18d30982c1832f2c7d1"
   },
   "session_key": 9476,
   "session_type": "Qualifying",
@@ -976,7 +592,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63cc"
+    "$oid": "67f8b18d30982c1832f2c7d2"
   },
   "session_key": 9476,
   "session_type": "Qualifying",
@@ -992,23 +608,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63cd"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 20,
-  "driver_number": 24,
-  "full_name": "ZHOU Guanyu",
-  "team_name": "Kick Sauber",
-  "lap_number": 2,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GUAZHO01_Guanyu_Zhou/guazho01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63ce"
+    "$oid": "67f8b18d30982c1832f2c7d3"
   },
   "session_key": 9476,
   "session_type": "Qualifying",
@@ -1024,7 +624,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63cf"
+    "$oid": "67f8b18d30982c1832f2c7d4"
   },
   "session_key": 9476,
   "session_type": "Qualifying",
@@ -1040,7 +640,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63d0"
+    "$oid": "67f8b18d30982c1832f2c7d5"
   },
   "session_key": 9476,
   "session_type": "Qualifying",
@@ -1058,7 +658,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63d1"
+    "$oid": "67f8b18d30982c1832f2c7d6"
   },
   "session_key": 9476,
   "session_type": "Qualifying",
@@ -1074,7 +674,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63d2"
+    "$oid": "67f8b18d30982c1832f2c7d7"
   },
   "session_key": 9476,
   "session_type": "Qualifying",
@@ -1090,7 +690,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63d3"
+    "$oid": "67f8b18d30982c1832f2c7d8"
   },
   "session_key": 9476,
   "session_type": "Qualifying",
@@ -1106,7 +706,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63d4"
+    "$oid": "67f8b18d30982c1832f2c7d9"
   },
   "session_key": 9476,
   "session_type": "Qualifying",
@@ -1122,7 +722,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63d5"
+    "$oid": "67f8b18d30982c1832f2c7da"
   },
   "session_key": 9480,
   "session_type": "Race",
@@ -1138,39 +738,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63d6"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 15,
-  "driver_number": 2,
-  "full_name": "Logan SARGEANT",
-  "team_name": "Williams",
-  "lap_number": 49,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LOGSAR01_Logan_Sargeant/logsar01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63d7"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 16,
-  "driver_number": 3,
-  "full_name": "Daniel RICCIARDO",
-  "team_name": "RB",
-  "lap_number": 49,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63d8"
+    "$oid": "67f8b18d30982c1832f2c7db"
   },
   "session_key": 9480,
   "session_type": "Race",
@@ -1186,7 +754,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63d9"
+    "$oid": "67f8b18d30982c1832f2c7dc"
   },
   "session_key": 9480,
   "session_type": "Race",
@@ -1202,23 +770,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63da"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 2,
-  "driver_number": 11,
-  "full_name": "Sergio PEREZ",
-  "team_name": "Red Bull Racing",
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63db"
+    "$oid": "67f8b18d30982c1832f2c7dd"
   },
   "session_key": 9480,
   "session_type": "Race",
@@ -1234,7 +786,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63dc"
+    "$oid": "67f8b18d30982c1832f2c7de"
   },
   "session_key": 9480,
   "session_type": "Race",
@@ -1250,7 +802,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63dd"
+    "$oid": "67f8b18d30982c1832f2c7df"
   },
   "session_key": 9480,
   "session_type": "Race",
@@ -1266,23 +818,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63de"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 12,
-  "driver_number": 20,
-  "full_name": "Kevin MAGNUSSEN",
-  "team_name": "Haas F1 Team",
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63df"
+    "$oid": "67f8b18d30982c1832f2c7e0"
   },
   "session_key": 9480,
   "session_type": "Race",
@@ -1298,7 +834,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63e0"
+    "$oid": "67f8b18d30982c1832f2c7e1"
   },
   "session_key": 9480,
   "session_type": "Race",
@@ -1314,23 +850,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63e1"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 18,
-  "driver_number": 24,
-  "full_name": "ZHOU Guanyu",
-  "team_name": "Kick Sauber",
-  "lap_number": 49,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GUAZHO01_Guanyu_Zhou/guazho01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b63e2"
+    "$oid": "67f8b18d30982c1832f2c7e2"
   },
   "session_key": 9480,
   "session_type": "Race",
@@ -1346,7 +866,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63e3"
+    "$oid": "67f8b18d30982c1832f2c7e3"
   },
   "session_key": 9480,
   "session_type": "Race",
@@ -1362,7 +882,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63e4"
+    "$oid": "67f8b18d30982c1832f2c7e4"
   },
   "session_key": 9480,
   "session_type": "Race",
@@ -1380,7 +900,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63e5"
+    "$oid": "67f8b18d30982c1832f2c7e5"
   },
   "session_key": 9480,
   "session_type": "Race",
@@ -1396,7 +916,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63e6"
+    "$oid": "67f8b18d30982c1832f2c7e6"
   },
   "session_key": 9480,
   "session_type": "Race",
@@ -1412,7 +932,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63e7"
+    "$oid": "67f8b18d30982c1832f2c7e7"
   },
   "session_key": 9480,
   "session_type": "Race",
@@ -1428,7 +948,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63e8"
+    "$oid": "67f8b18d30982c1832f2c7e8"
   },
   "session_key": 9480,
   "session_type": "Race",
@@ -1444,7 +964,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63e9"
+    "$oid": "67f8b18d30982c1832f2c7e9"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1460,7 +980,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63ea"
+    "$oid": "67f8b18d30982c1832f2c7ea"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1476,7 +996,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63eb"
+    "$oid": "67f8b18d30982c1832f2c7eb"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1492,7 +1012,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63ec"
+    "$oid": "67f8b18d30982c1832f2c7ec"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1508,7 +1028,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63ed"
+    "$oid": "67f8b18d30982c1832f2c7ed"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1524,7 +1044,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63ee"
+    "$oid": "67f8b18d30982c1832f2c7ee"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1540,7 +1060,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63ef"
+    "$oid": "67f8b18d30982c1832f2c7ef"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1556,7 +1076,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63f0"
+    "$oid": "67f8b18d30982c1832f2c7f0"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1572,7 +1092,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63f1"
+    "$oid": "67f8b18d30982c1832f2c7f1"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1588,7 +1108,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63f2"
+    "$oid": "67f8b18d30982c1832f2c7f2"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1604,7 +1124,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63f3"
+    "$oid": "67f8b18d30982c1832f2c7f3"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1620,7 +1140,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63f4"
+    "$oid": "67f8b18d30982c1832f2c7f4"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1636,7 +1156,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63f5"
+    "$oid": "67f8b18d30982c1832f2c7f5"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1652,7 +1172,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63f6"
+    "$oid": "67f8b18d30982c1832f2c7f6"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1668,7 +1188,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63f7"
+    "$oid": "67f8b18d30982c1832f2c7f7"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1684,7 +1204,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63f8"
+    "$oid": "67f8b18d30982c1832f2c7f8"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1700,7 +1220,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63f9"
+    "$oid": "67f8b18d30982c1832f2c7f9"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1716,7 +1236,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63fa"
+    "$oid": "67f8b18d30982c1832f2c7fa"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1732,7 +1252,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63fb"
+    "$oid": "67f8b18d30982c1832f2c7fb"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1748,7 +1268,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63fc"
+    "$oid": "67f8b18d30982c1832f2c7fc"
   },
   "session_key": 9689,
   "session_type": "Qualifying",
@@ -1764,7 +1284,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63fd"
+    "$oid": "67f8b18d30982c1832f2c7fd"
   },
   "session_key": 9693,
   "session_type": "Race",
@@ -1772,7 +1292,7 @@
   "driver_number": 1,
   "full_name": "Max VERSTAPPEN",
   "team_name": "Red Bull Racing",
-  "lap_number": 53,
+  "lap_number": 57,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -1780,7 +1300,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63fe"
+    "$oid": "67f8b18d30982c1832f2c7fe"
   },
   "session_key": 9693,
   "session_type": "Race",
@@ -1788,7 +1308,7 @@
   "driver_number": 4,
   "full_name": "Lando NORRIS",
   "team_name": "McLaren",
-  "lap_number": 53,
+  "lap_number": 57,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -1796,7 +1316,7 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b63ff"
+    "$oid": "67f8b18d30982c1832f2c7ff"
   },
   "session_key": 9693,
   "session_type": "Race",
@@ -1804,7 +1324,7 @@
   "driver_number": 5,
   "full_name": "Gabriel BORTOLETO",
   "team_name": "Kick Sauber",
-  "lap_number": 43,
+  "lap_number": 46,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -1812,1763 +1332,15 @@
 },
 {
   "_id": {
-    "$oid": "67db188a0cddb9887f2b6400"
+    "$oid": "67f8b18d30982c1832f2c800"
   },
   "session_key": 9693,
-  "session_type": "Race",
-  "position": 20,
-  "driver_number": 7,
-  "full_name": "Jack DOOHAN",
-  "team_name": "Alpine",
-  "lap_number": 1,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/J/JACDOO01_Jack_Doohan/jacdoo01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b6401"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 11,
-  "driver_number": 10,
-  "full_name": "Pierre GASLY",
-  "team_name": "Alpine",
-  "lap_number": 53,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b6402"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 5,
-  "driver_number": 12,
-  "full_name": "Andrea Kimi ANTONELLI",
-  "team_name": "Mercedes",
-  "lap_number": 53,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/A/ANDANT01_Andrea%20Kimi_Antonelli/andant01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b6403"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 17,
-  "driver_number": 14,
-  "full_name": "Fernando ALONSO",
-  "team_name": "Aston Martin",
-  "lap_number": 30,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b6404"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 8,
-  "driver_number": 16,
-  "full_name": "Charles LECLERC",
-  "team_name": "Ferrari",
-  "lap_number": 53,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b6405"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 6,
-  "driver_number": 18,
-  "full_name": "Lance STROLL",
-  "team_name": "Aston Martin",
-  "lap_number": 53,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b6406"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 12,
-  "driver_number": 22,
-  "full_name": "Yuki TSUNODA",
-  "team_name": "Racing Bulls",
-  "lap_number": 53,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b6407"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 4,
-  "driver_number": 23,
-  "full_name": "Alexander ALBON",
-  "team_name": "Williams",
-  "lap_number": 52,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b6408"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 7,
-  "driver_number": 27,
-  "full_name": "Nico HULKENBERG",
-  "team_name": "Kick Sauber",
-  "lap_number": 53,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/N/NICHUL01_Nico_Hulkenberg/nichul01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b6409"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 12,
-  "driver_number": 30,
-  "full_name": "Liam LAWSON",
-  "team_name": "Red Bull Racing",
-  "lap_number": 44,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LIALAW01_Liam_Lawson/lialaw01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b640a"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 13,
-  "driver_number": 31,
-  "full_name": "Esteban OCON",
-  "team_name": "Haas F1 Team",
-  "lap_number": 53,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b640b"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 10,
-  "driver_number": 44,
-  "full_name": "Lewis HAMILTON",
-  "team_name": "Ferrari",
-  "lap_number": 53,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b640c"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 18,
-  "driver_number": 55,
-  "full_name": "Carlos SAINZ",
-  "team_name": "Williams",
-  "lap_number": 1,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b640d"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 3,
-  "driver_number": 63,
-  "full_name": "George RUSSELL",
-  "team_name": "Mercedes",
-  "lap_number": 53,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b640e"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 9,
-  "driver_number": 81,
-  "full_name": "Oscar PIASTRI",
-  "team_name": "McLaren",
-  "lap_number": 53,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OSCPIA01_Oscar_Piastri/oscpia01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67db188a0cddb9887f2b640f"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 15,
-  "driver_number": 87,
-  "full_name": "Oliver BEARMAN",
-  "team_name": "Haas F1 Team",
-  "lap_number": 53,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OLIBEA01_Oliver_Bearman/olibea01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb148"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 15,
-  "driver_number": 1,
-  "full_name": "Max VERSTAPPEN",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 6,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb149"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 20,
-  "driver_number": 2,
-  "full_name": "Logan SARGEANT",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 8,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb14a"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 19,
-  "driver_number": 4,
-  "full_name": "Lando NORRIS",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 4,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb14b"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 10,
-  "driver_number": 10,
-  "full_name": "Pierre GASLY",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 23,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb14c"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 1,
-  "driver_number": 11,
-  "full_name": "Sergio PEREZ",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 18,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb14d"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 3,
-  "driver_number": 14,
-  "full_name": "Fernando ALONSO",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 18,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb14e"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 2,
-  "driver_number": 16,
-  "full_name": "Charles LECLERC",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 19,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb14f"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 6,
-  "driver_number": 18,
-  "full_name": "Lance STROLL",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 20,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb150"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 13,
-  "driver_number": 20,
-  "full_name": "Kevin MAGNUSSEN",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 17,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb151"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 18,
-  "driver_number": 21,
-  "full_name": "Nyck DE VRIES",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 10,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb152"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 16,
-  "driver_number": 22,
-  "full_name": "Yuki TSUNODA",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 10,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb153"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 17,
-  "driver_number": 23,
-  "full_name": "Alexander ALBON",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 9,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb154"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 12,
-  "driver_number": 24,
-  "full_name": "ZHOU Guanyu",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 18,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb155"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 11,
-  "driver_number": 27,
-  "full_name": "Nico HULKENBERG",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 18,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb156"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 7,
-  "driver_number": 31,
-  "full_name": "Esteban OCON",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 24,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb157"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 8,
-  "driver_number": 44,
-  "full_name": "Lewis HAMILTON",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 21,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb158"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 5,
-  "driver_number": 55,
-  "full_name": "Carlos SAINZ",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 24,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb159"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 4,
-  "driver_number": 63,
-  "full_name": "George RUSSELL",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 21,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb15a"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 14,
-  "driver_number": 77,
-  "full_name": "Valtteri BOTTAS",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 18,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb15b"
-  },
-  "session_key": 7775,
-  "session_type": "Qualifying",
-  "position": 9,
-  "driver_number": 81,
-  "full_name": "Oscar PIASTRI",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 23,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb15c"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 2,
-  "driver_number": 1,
-  "full_name": "Max VERSTAPPEN",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb15d"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 16,
-  "driver_number": 2,
-  "full_name": "Logan SARGEANT",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb15e"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 17,
-  "driver_number": 4,
-  "full_name": "Lando NORRIS",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb15f"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 9,
-  "driver_number": 10,
-  "full_name": "Pierre GASLY",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb160"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 1,
-  "driver_number": 11,
-  "full_name": "Sergio PEREZ",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb161"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 3,
-  "driver_number": 14,
-  "full_name": "Fernando ALONSO",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb162"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 7,
-  "driver_number": 16,
-  "full_name": "Charles LECLERC",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb163"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 20,
-  "driver_number": 18,
-  "full_name": "Lance STROLL",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 17,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb164"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 10,
-  "driver_number": 20,
-  "full_name": "Kevin MAGNUSSEN",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb165"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 14,
-  "driver_number": 21,
-  "full_name": "Nyck DE VRIES",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb166"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 11,
-  "driver_number": 22,
-  "full_name": "Yuki TSUNODA",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb167"
-  },
-  "session_key": 7779,
   "session_type": "Race",
   "position": 19,
-  "driver_number": 23,
-  "full_name": "Alexander ALBON",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 27,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb168"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 13,
-  "driver_number": 24,
-  "full_name": "ZHOU Guanyu",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb169"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 12,
-  "driver_number": 27,
-  "full_name": "Nico HULKENBERG",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb16a"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 8,
-  "driver_number": 31,
-  "full_name": "Esteban OCON",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb16b"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 5,
-  "driver_number": 44,
-  "full_name": "Lewis HAMILTON",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb16c"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 6,
-  "driver_number": 55,
-  "full_name": "Carlos SAINZ",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb16d"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 4,
-  "driver_number": 63,
-  "full_name": "George RUSSELL",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb16e"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 18,
-  "driver_number": 77,
-  "full_name": "Valtteri BOTTAS",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 49,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb16f"
-  },
-  "session_key": 7779,
-  "session_type": "Race",
-  "position": 15,
-  "driver_number": 81,
-  "full_name": "Oscar PIASTRI",
-  "team_name": {
-    "$numberDouble": "NaN"
-  },
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2023",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb170"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 1,
-  "driver_number": 1,
-  "full_name": "Max VERSTAPPEN",
-  "team_name": "Red Bull Racing",
-  "lap_number": 18,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb171"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 19,
-  "driver_number": 2,
-  "full_name": "Logan SARGEANT",
-  "team_name": "Williams",
-  "lap_number": 9,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LOGSAR01_Logan_Sargeant/logsar01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb172"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 14,
-  "driver_number": 3,
-  "full_name": "Daniel RICCIARDO",
-  "team_name": "RB",
-  "lap_number": 12,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb173"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 6,
-  "driver_number": 4,
-  "full_name": "Lando NORRIS",
-  "team_name": "McLaren",
-  "lap_number": 22,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb174"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 18,
-  "driver_number": 10,
-  "full_name": "Pierre GASLY",
-  "team_name": "Alpine",
-  "lap_number": 9,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb175"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 3,
-  "driver_number": 11,
-  "full_name": "Sergio PEREZ",
-  "team_name": "Red Bull Racing",
-  "lap_number": 19,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb176"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 4,
-  "driver_number": 14,
-  "full_name": "Fernando ALONSO",
-  "team_name": "Aston Martin",
-  "lap_number": 17,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb177"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 2,
-  "driver_number": 16,
-  "full_name": "Charles LECLERC",
-  "team_name": "Ferrari",
-  "lap_number": 23,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb178"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 10,
-  "driver_number": 18,
-  "full_name": "Lance STROLL",
-  "team_name": "Aston Martin",
-  "lap_number": 19,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb179"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 13,
-  "driver_number": 20,
-  "full_name": "Kevin MAGNUSSEN",
-  "team_name": "Haas F1 Team",
-  "lap_number": 17,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb17a"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 9,
-  "driver_number": 22,
-  "full_name": "Yuki TSUNODA",
-  "team_name": "RB",
-  "lap_number": 18,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb17b"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 12,
-  "driver_number": 23,
-  "full_name": "Alexander ALBON",
-  "team_name": "Williams",
-  "lap_number": 16,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb17c"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 20,
-  "driver_number": 24,
-  "full_name": "ZHOU Guanyu",
-  "team_name": "Kick Sauber",
-  "lap_number": 2,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GUAZHO01_Guanyu_Zhou/guazho01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb17d"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 15,
-  "driver_number": 27,
-  "full_name": "Nico HULKENBERG",
-  "team_name": "Haas F1 Team",
-  "lap_number": 10,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/N/NICHUL01_Nico_Hulkenberg/nichul01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb17e"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 17,
-  "driver_number": 31,
-  "full_name": "Esteban OCON",
-  "team_name": "Alpine",
-  "lap_number": 10,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb17f"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 11,
-  "driver_number": 38,
-  "full_name": "Oliver BEARMAN",
-  "team_name": "Ferrari",
-  "lap_number": 18,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb180"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 8,
-  "driver_number": 44,
-  "full_name": "Lewis HAMILTON",
-  "team_name": "Mercedes",
-  "lap_number": 24,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb181"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 7,
-  "driver_number": 63,
-  "full_name": "George RUSSELL",
-  "team_name": "Mercedes",
-  "lap_number": 22,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb182"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 16,
-  "driver_number": 77,
-  "full_name": "Valtteri BOTTAS",
-  "team_name": "Kick Sauber",
-  "lap_number": 9,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb183"
-  },
-  "session_key": 9476,
-  "session_type": "Qualifying",
-  "position": 5,
-  "driver_number": 81,
-  "full_name": "Oscar PIASTRI",
-  "team_name": "McLaren",
-  "lap_number": 22,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OSCPIA01_Oscar_Piastri/oscpia01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb184"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 1,
-  "driver_number": 1,
-  "full_name": "Max VERSTAPPEN",
-  "team_name": "Red Bull Racing",
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb185"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 15,
-  "driver_number": 2,
-  "full_name": "Logan SARGEANT",
-  "team_name": "Williams",
-  "lap_number": 49,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LOGSAR01_Logan_Sargeant/logsar01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb186"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 16,
-  "driver_number": 3,
-  "full_name": "Daniel RICCIARDO",
-  "team_name": "RB",
-  "lap_number": 49,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb187"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 8,
-  "driver_number": 4,
-  "full_name": "Lando NORRIS",
-  "team_name": "McLaren",
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb188"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 20,
-  "driver_number": 10,
-  "full_name": "Pierre GASLY",
-  "team_name": "Alpine",
-  "lap_number": 1,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb189"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 2,
-  "driver_number": 11,
-  "full_name": "Sergio PEREZ",
-  "team_name": "Red Bull Racing",
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb18a"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 5,
-  "driver_number": 14,
-  "full_name": "Fernando ALONSO",
-  "team_name": "Aston Martin",
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb18b"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 3,
-  "driver_number": 16,
-  "full_name": "Charles LECLERC",
-  "team_name": "Ferrari",
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb18c"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 19,
-  "driver_number": 18,
-  "full_name": "Lance STROLL",
-  "team_name": "Aston Martin",
-  "lap_number": 6,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb18d"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 12,
-  "driver_number": 20,
-  "full_name": "Kevin MAGNUSSEN",
-  "team_name": "Haas F1 Team",
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb18e"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 14,
-  "driver_number": 22,
-  "full_name": "Yuki TSUNODA",
-  "team_name": "RB",
-  "lap_number": 49,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb18f"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 11,
-  "driver_number": 23,
-  "full_name": "Alexander ALBON",
-  "team_name": "Williams",
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb190"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 18,
-  "driver_number": 24,
-  "full_name": "ZHOU Guanyu",
-  "team_name": "Kick Sauber",
-  "lap_number": 49,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GUAZHO01_Guanyu_Zhou/guazho01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb191"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 10,
-  "driver_number": 27,
-  "full_name": "Nico HULKENBERG",
-  "team_name": "Haas F1 Team",
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/N/NICHUL01_Nico_Hulkenberg/nichul01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb192"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 13,
-  "driver_number": 31,
-  "full_name": "Esteban OCON",
-  "team_name": "Alpine",
-  "lap_number": 49,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb193"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 7,
-  "driver_number": 38,
-  "full_name": "Oliver BEARMAN",
-  "team_name": "Ferrari",
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": {
-    "$numberDouble": "NaN"
-  }
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb194"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 9,
-  "driver_number": 44,
-  "full_name": "Lewis HAMILTON",
-  "team_name": "Mercedes",
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb195"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 6,
-  "driver_number": 63,
-  "full_name": "George RUSSELL",
-  "team_name": "Mercedes",
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb196"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 17,
-  "driver_number": 77,
-  "full_name": "Valtteri BOTTAS",
-  "team_name": "Kick Sauber",
-  "lap_number": 49,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb197"
-  },
-  "session_key": 9480,
-  "session_type": "Race",
-  "position": 4,
-  "driver_number": 81,
-  "full_name": "Oscar PIASTRI",
-  "team_name": "McLaren",
-  "lap_number": 50,
-  "circuit_key": 149,
-  "location": "Jeddah",
-  "year": "2024",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OSCPIA01_Oscar_Piastri/oscpia01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb198"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 3,
-  "driver_number": 1,
-  "full_name": "Max VERSTAPPEN",
-  "team_name": "Red Bull Racing",
-  "lap_number": 17,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb199"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 1,
-  "driver_number": 4,
-  "full_name": "Lando NORRIS",
-  "team_name": "McLaren",
-  "lap_number": 20,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb19a"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 15,
-  "driver_number": 5,
-  "full_name": "Gabriel BORTOLETO",
-  "team_name": "Kick Sauber",
-  "lap_number": 13,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GABBOR01_Gabriel_Bortoleto/gabbor01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb19b"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 11,
   "driver_number": 6,
   "full_name": "Isack HADJAR",
   "team_name": "Racing Bulls",
-  "lap_number": 12,
+  "lap_number": 1,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -3576,311 +1348,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb19c"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 14,
-  "driver_number": 7,
-  "full_name": "Jack DOOHAN",
-  "team_name": "Alpine",
-  "lap_number": 15,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/J/JACDOO01_Jack_Doohan/jacdoo01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb19d"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 9,
-  "driver_number": 10,
-  "full_name": "Pierre GASLY",
-  "team_name": "Alpine",
-  "lap_number": 21,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb19e"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 16,
-  "driver_number": 12,
-  "full_name": "Andrea Kimi ANTONELLI",
-  "team_name": "Mercedes",
-  "lap_number": 9,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/A/ANDANT01_Andrea%20Kimi_Antonelli/andant01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb19f"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 12,
-  "driver_number": 14,
-  "full_name": "Fernando ALONSO",
-  "team_name": "Aston Martin",
-  "lap_number": 13,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1a0"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 7,
-  "driver_number": 16,
-  "full_name": "Charles LECLERC",
-  "team_name": "Ferrari",
-  "lap_number": 20,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1a1"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 13,
-  "driver_number": 18,
-  "full_name": "Lance STROLL",
-  "team_name": "Aston Martin",
-  "lap_number": 15,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1a2"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 5,
-  "driver_number": 22,
-  "full_name": "Yuki TSUNODA",
-  "team_name": "Racing Bulls",
-  "lap_number": 18,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1a3"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 6,
-  "driver_number": 23,
-  "full_name": "Alexander ALBON",
-  "team_name": "Williams",
-  "lap_number": 21,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1a4"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 17,
-  "driver_number": 27,
-  "full_name": "Nico HULKENBERG",
-  "team_name": "Kick Sauber",
-  "lap_number": 9,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/N/NICHUL01_Nico_Hulkenberg/nichul01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1a5"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 18,
-  "driver_number": 30,
-  "full_name": "Liam LAWSON",
-  "team_name": "Red Bull Racing",
-  "lap_number": 7,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LIALAW01_Liam_Lawson/lialaw01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1a6"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 19,
-  "driver_number": 31,
-  "full_name": "Esteban OCON",
-  "team_name": "Haas F1 Team",
-  "lap_number": 9,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1a7"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 8,
-  "driver_number": 44,
-  "full_name": "Lewis HAMILTON",
-  "team_name": "Ferrari",
-  "lap_number": 23,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1a8"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 10,
-  "driver_number": 55,
-  "full_name": "Carlos SAINZ",
-  "team_name": "Williams",
-  "lap_number": 21,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1a9"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 4,
-  "driver_number": 63,
-  "full_name": "George RUSSELL",
-  "team_name": "Mercedes",
-  "lap_number": 21,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1aa"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 2,
-  "driver_number": 81,
-  "full_name": "Oscar PIASTRI",
-  "team_name": "McLaren",
-  "lap_number": 18,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OSCPIA01_Oscar_Piastri/oscpia01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1ab"
-  },
-  "session_key": 9689,
-  "session_type": "Qualifying",
-  "position": 20,
-  "driver_number": 87,
-  "full_name": "Oliver BEARMAN",
-  "team_name": "Haas F1 Team",
-  "lap_number": 1,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OLIBEA01_Oliver_Bearman/olibea01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1ac"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 2,
-  "driver_number": 1,
-  "full_name": "Max VERSTAPPEN",
-  "team_name": "Red Bull Racing",
-  "lap_number": 53,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1ad"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 1,
-  "driver_number": 4,
-  "full_name": "Lando NORRIS",
-  "team_name": "McLaren",
-  "lap_number": 53,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1ae"
-  },
-  "session_key": 9693,
-  "session_type": "Race",
-  "position": 16,
-  "driver_number": 5,
-  "full_name": "Gabriel BORTOLETO",
-  "team_name": "Kick Sauber",
-  "lap_number": 43,
-  "circuit_key": 10,
-  "location": "Melbourne",
-  "year": "2025",
-  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GABBOR01_Gabriel_Bortoleto/gabbor01.png.transform/1col/image.png"
-},
-{
-  "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1af"
+    "$oid": "67f8b18d30982c1832f2c801"
   },
   "session_key": 9693,
   "session_type": "Race",
@@ -3896,7 +1364,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1b0"
+    "$oid": "67f8b18d30982c1832f2c802"
   },
   "session_key": 9693,
   "session_type": "Race",
@@ -3904,7 +1372,7 @@
   "driver_number": 10,
   "full_name": "Pierre GASLY",
   "team_name": "Alpine",
-  "lap_number": 53,
+  "lap_number": 57,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -3912,7 +1380,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1b1"
+    "$oid": "67f8b18d30982c1832f2c803"
   },
   "session_key": 9693,
   "session_type": "Race",
@@ -3920,7 +1388,7 @@
   "driver_number": 12,
   "full_name": "Andrea Kimi ANTONELLI",
   "team_name": "Mercedes",
-  "lap_number": 53,
+  "lap_number": 57,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -3928,7 +1396,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1b2"
+    "$oid": "67f8b18d30982c1832f2c804"
   },
   "session_key": 9693,
   "session_type": "Race",
@@ -3936,7 +1404,7 @@
   "driver_number": 14,
   "full_name": "Fernando ALONSO",
   "team_name": "Aston Martin",
-  "lap_number": 30,
+  "lap_number": 33,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -3944,7 +1412,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1b3"
+    "$oid": "67f8b18d30982c1832f2c805"
   },
   "session_key": 9693,
   "session_type": "Race",
@@ -3952,7 +1420,7 @@
   "driver_number": 16,
   "full_name": "Charles LECLERC",
   "team_name": "Ferrari",
-  "lap_number": 53,
+  "lap_number": 57,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -3960,7 +1428,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1b4"
+    "$oid": "67f8b18d30982c1832f2c806"
   },
   "session_key": 9693,
   "session_type": "Race",
@@ -3968,7 +1436,7 @@
   "driver_number": 18,
   "full_name": "Lance STROLL",
   "team_name": "Aston Martin",
-  "lap_number": 53,
+  "lap_number": 57,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -3976,7 +1444,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1b5"
+    "$oid": "67f8b18d30982c1832f2c807"
   },
   "session_key": 9693,
   "session_type": "Race",
@@ -3984,7 +1452,7 @@
   "driver_number": 22,
   "full_name": "Yuki TSUNODA",
   "team_name": "Racing Bulls",
-  "lap_number": 53,
+  "lap_number": 57,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -3992,7 +1460,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1b6"
+    "$oid": "67f8b18d30982c1832f2c808"
   },
   "session_key": 9693,
   "session_type": "Race",
@@ -4000,7 +1468,7 @@
   "driver_number": 23,
   "full_name": "Alexander ALBON",
   "team_name": "Williams",
-  "lap_number": 52,
+  "lap_number": 57,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -4008,7 +1476,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1b7"
+    "$oid": "67f8b18d30982c1832f2c809"
   },
   "session_key": 9693,
   "session_type": "Race",
@@ -4016,7 +1484,7 @@
   "driver_number": 27,
   "full_name": "Nico HULKENBERG",
   "team_name": "Kick Sauber",
-  "lap_number": 53,
+  "lap_number": 57,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -4024,15 +1492,15 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1b8"
+    "$oid": "67f8b18d30982c1832f2c80a"
   },
   "session_key": 9693,
   "session_type": "Race",
-  "position": 12,
+  "position": 15,
   "driver_number": 30,
   "full_name": "Liam LAWSON",
   "team_name": "Red Bull Racing",
-  "lap_number": 44,
+  "lap_number": 47,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -4040,7 +1508,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1b9"
+    "$oid": "67f8b18d30982c1832f2c80b"
   },
   "session_key": 9693,
   "session_type": "Race",
@@ -4048,7 +1516,7 @@
   "driver_number": 31,
   "full_name": "Esteban OCON",
   "team_name": "Haas F1 Team",
-  "lap_number": 53,
+  "lap_number": 57,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -4056,7 +1524,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1ba"
+    "$oid": "67f8b18d30982c1832f2c80c"
   },
   "session_key": 9693,
   "session_type": "Race",
@@ -4064,7 +1532,7 @@
   "driver_number": 44,
   "full_name": "Lewis HAMILTON",
   "team_name": "Ferrari",
-  "lap_number": 53,
+  "lap_number": 57,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -4072,7 +1540,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1bb"
+    "$oid": "67f8b18d30982c1832f2c80d"
   },
   "session_key": 9693,
   "session_type": "Race",
@@ -4088,7 +1556,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1bc"
+    "$oid": "67f8b18d30982c1832f2c80e"
   },
   "session_key": 9693,
   "session_type": "Race",
@@ -4096,7 +1564,7 @@
   "driver_number": 63,
   "full_name": "George RUSSELL",
   "team_name": "Mercedes",
-  "lap_number": 53,
+  "lap_number": 57,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -4104,7 +1572,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1bd"
+    "$oid": "67f8b18d30982c1832f2c80f"
   },
   "session_key": 9693,
   "session_type": "Race",
@@ -4112,7 +1580,7 @@
   "driver_number": 81,
   "full_name": "Oscar PIASTRI",
   "team_name": "McLaren",
-  "lap_number": 53,
+  "lap_number": 57,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -4120,15 +1588,15 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1be"
+    "$oid": "67f8b18d30982c1832f2c810"
   },
   "session_key": 9693,
   "session_type": "Race",
-  "position": 15,
+  "position": 14,
   "driver_number": 87,
   "full_name": "Oliver BEARMAN",
   "team_name": "Haas F1 Team",
-  "lap_number": 53,
+  "lap_number": 57,
   "circuit_key": 10,
   "location": "Melbourne",
   "year": "2025",
@@ -4136,7 +1604,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1bf"
+    "$oid": "67f8b18d30982c1832f2c811"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4152,7 +1620,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1c0"
+    "$oid": "67f8b18d30982c1832f2c812"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4168,7 +1636,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1c1"
+    "$oid": "67f8b18d30982c1832f2c813"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4184,7 +1652,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1c2"
+    "$oid": "67f8b18d30982c1832f2c814"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4200,7 +1668,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1c3"
+    "$oid": "67f8b18d30982c1832f2c815"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4216,7 +1684,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1c4"
+    "$oid": "67f8b18d30982c1832f2c816"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4232,7 +1700,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1c5"
+    "$oid": "67f8b18d30982c1832f2c817"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4248,7 +1716,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1c6"
+    "$oid": "67f8b18d30982c1832f2c818"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4264,7 +1732,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1c7"
+    "$oid": "67f8b18d30982c1832f2c819"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4280,7 +1748,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1c8"
+    "$oid": "67f8b18d30982c1832f2c81a"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4296,7 +1764,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1c9"
+    "$oid": "67f8b18d30982c1832f2c81b"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4312,7 +1780,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1ca"
+    "$oid": "67f8b18d30982c1832f2c81c"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4328,7 +1796,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1cb"
+    "$oid": "67f8b18d30982c1832f2c81d"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4344,7 +1812,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1cc"
+    "$oid": "67f8b18d30982c1832f2c81e"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4360,7 +1828,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1cd"
+    "$oid": "67f8b18d30982c1832f2c81f"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4376,7 +1844,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1ce"
+    "$oid": "67f8b18d30982c1832f2c820"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4392,7 +1860,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1cf"
+    "$oid": "67f8b18d30982c1832f2c821"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4408,7 +1876,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1d0"
+    "$oid": "67f8b18d30982c1832f2c822"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4424,7 +1892,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1d1"
+    "$oid": "67f8b18d30982c1832f2c823"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4440,7 +1908,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1d2"
+    "$oid": "67f8b18d30982c1832f2c824"
   },
   "session_key": 9994,
   "session_type": "Qualifying",
@@ -4456,7 +1924,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1d3"
+    "$oid": "67f8b18d30982c1832f2c825"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4472,7 +1940,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1d4"
+    "$oid": "67f8b18d30982c1832f2c826"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4488,7 +1956,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1d5"
+    "$oid": "67f8b18d30982c1832f2c827"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4504,7 +1972,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1d6"
+    "$oid": "67f8b18d30982c1832f2c828"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4520,7 +1988,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1d7"
+    "$oid": "67f8b18d30982c1832f2c829"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4536,7 +2004,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1d8"
+    "$oid": "67f8b18d30982c1832f2c82a"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4552,7 +2020,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1d9"
+    "$oid": "67f8b18d30982c1832f2c82b"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4568,7 +2036,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1da"
+    "$oid": "67f8b18d30982c1832f2c82c"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4584,7 +2052,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1db"
+    "$oid": "67f8b18d30982c1832f2c82d"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4600,7 +2068,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1dc"
+    "$oid": "67f8b18d30982c1832f2c82e"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4616,7 +2084,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1dd"
+    "$oid": "67f8b18d30982c1832f2c82f"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4632,7 +2100,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1de"
+    "$oid": "67f8b18d30982c1832f2c830"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4648,7 +2116,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1df"
+    "$oid": "67f8b18d30982c1832f2c831"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4664,7 +2132,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1e0"
+    "$oid": "67f8b18d30982c1832f2c832"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4680,7 +2148,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1e1"
+    "$oid": "67f8b18d30982c1832f2c833"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4696,7 +2164,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1e2"
+    "$oid": "67f8b18d30982c1832f2c834"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4712,7 +2180,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1e3"
+    "$oid": "67f8b18d30982c1832f2c835"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4728,7 +2196,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1e4"
+    "$oid": "67f8b18d30982c1832f2c836"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4744,7 +2212,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1e5"
+    "$oid": "67f8b18d30982c1832f2c837"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4760,7 +2228,7 @@
 },
 {
   "_id": {
-    "$oid": "67ed8c8ed82bfcd9410eb1e6"
+    "$oid": "67f8b18d30982c1832f2c838"
   },
   "session_key": 9998,
   "session_type": "Race",
@@ -4771,6 +2239,646 @@
   "lap_number": 56,
   "circuit_key": 49,
   "location": "Shanghai",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OLIBEA01_Oliver_Bearman/olibea01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c839"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 1,
+  "driver_number": 1,
+  "full_name": "Max VERSTAPPEN",
+  "team_name": "Red Bull Racing",
+  "lap_number": 17,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c83a"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 2,
+  "driver_number": 4,
+  "full_name": "Lando NORRIS",
+  "team_name": "McLaren",
+  "lap_number": 15,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c83b"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 17,
+  "driver_number": 5,
+  "full_name": "Gabriel BORTOLETO",
+  "team_name": "Kick Sauber",
+  "lap_number": 9,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GABBOR01_Gabriel_Bortoleto/gabbor01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c83c"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 7,
+  "driver_number": 6,
+  "full_name": "Isack HADJAR",
+  "team_name": "Racing Bulls",
+  "lap_number": 18,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/I/ISAHAD01_Isack_Hadjar/isahad01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c83d"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 19,
+  "driver_number": 7,
+  "full_name": "Jack DOOHAN",
+  "team_name": "Alpine",
+  "lap_number": 9,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/J/JACDOO01_Jack_Doohan/jacdoo01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c83e"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 11,
+  "driver_number": 10,
+  "full_name": "Pierre GASLY",
+  "team_name": "Alpine",
+  "lap_number": 12,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c83f"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 6,
+  "driver_number": 12,
+  "full_name": "Kimi ANTONELLI",
+  "team_name": "Mercedes",
+  "lap_number": 18,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/A/ANDANT01_Andrea%20Kimi_Antonelli/andant01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c840"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 13,
+  "driver_number": 14,
+  "full_name": "Fernando ALONSO",
+  "team_name": "Aston Martin",
+  "lap_number": 12,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c841"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 4,
+  "driver_number": 16,
+  "full_name": "Charles LECLERC",
+  "team_name": "Ferrari",
+  "lap_number": 21,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c842"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 20,
+  "driver_number": 18,
+  "full_name": "Lance STROLL",
+  "team_name": "Aston Martin",
+  "lap_number": 5,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c843"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 15,
+  "driver_number": 22,
+  "full_name": "Yuki TSUNODA",
+  "team_name": "Red Bull Racing",
+  "lap_number": 12,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c844"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 9,
+  "driver_number": 23,
+  "full_name": "Alexander ALBON",
+  "team_name": "Williams",
+  "lap_number": 20,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c845"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 16,
+  "driver_number": 27,
+  "full_name": "Nico HULKENBERG",
+  "team_name": "Kick Sauber",
+  "lap_number": 9,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/N/NICHUL01_Nico_Hulkenberg/nichul01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c846"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 14,
+  "driver_number": 30,
+  "full_name": "Liam LAWSON",
+  "team_name": "Racing Bulls",
+  "lap_number": 12,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LIALAW01_Liam_Lawson/lialaw01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c847"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 18,
+  "driver_number": 31,
+  "full_name": "Esteban OCON",
+  "team_name": "Haas F1 Team",
+  "lap_number": 9,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c848"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 8,
+  "driver_number": 44,
+  "full_name": "Lewis HAMILTON",
+  "team_name": "Ferrari",
+  "lap_number": 23,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c849"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 12,
+  "driver_number": 55,
+  "full_name": "Carlos SAINZ",
+  "team_name": "Williams",
+  "lap_number": 15,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c84a"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 5,
+  "driver_number": 63,
+  "full_name": "George RUSSELL",
+  "team_name": "Mercedes",
+  "lap_number": 17,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c84b"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 3,
+  "driver_number": 81,
+  "full_name": "Oscar PIASTRI",
+  "team_name": "McLaren",
+  "lap_number": 18,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OSCPIA01_Oscar_Piastri/oscpia01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c84c"
+  },
+  "session_key": 10002,
+  "session_type": "Qualifying",
+  "position": 10,
+  "driver_number": 87,
+  "full_name": "Oliver BEARMAN",
+  "team_name": "Haas F1 Team",
+  "lap_number": 21,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OLIBEA01_Oliver_Bearman/olibea01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c84d"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 1,
+  "driver_number": 1,
+  "full_name": "Max VERSTAPPEN",
+  "team_name": "Red Bull Racing",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c84e"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 2,
+  "driver_number": 4,
+  "full_name": "Lando NORRIS",
+  "team_name": "McLaren",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c84f"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 19,
+  "driver_number": 5,
+  "full_name": "Gabriel BORTOLETO",
+  "team_name": "Kick Sauber",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GABBOR01_Gabriel_Bortoleto/gabbor01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c850"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 8,
+  "driver_number": 6,
+  "full_name": "Isack HADJAR",
+  "team_name": "Racing Bulls",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/I/ISAHAD01_Isack_Hadjar/isahad01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c851"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 15,
+  "driver_number": 7,
+  "full_name": "Jack DOOHAN",
+  "team_name": "Alpine",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/J/JACDOO01_Jack_Doohan/jacdoo01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c852"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 13,
+  "driver_number": 10,
+  "full_name": "Pierre GASLY",
+  "team_name": "Alpine",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c853"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 6,
+  "driver_number": 12,
+  "full_name": "Kimi ANTONELLI",
+  "team_name": "Mercedes",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/A/ANDANT01_Andrea%20Kimi_Antonelli/andant01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c854"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 11,
+  "driver_number": 14,
+  "full_name": "Fernando ALONSO",
+  "team_name": "Aston Martin",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c855"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 4,
+  "driver_number": 16,
+  "full_name": "Charles LECLERC",
+  "team_name": "Ferrari",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c856"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 20,
+  "driver_number": 18,
+  "full_name": "Lance STROLL",
+  "team_name": "Aston Martin",
+  "lap_number": 52,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c857"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 12,
+  "driver_number": 22,
+  "full_name": "Yuki TSUNODA",
+  "team_name": "Red Bull Racing",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c858"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 9,
+  "driver_number": 23,
+  "full_name": "Alexander ALBON",
+  "team_name": "Williams",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c859"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 16,
+  "driver_number": 27,
+  "full_name": "Nico HULKENBERG",
+  "team_name": "Kick Sauber",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/N/NICHUL01_Nico_Hulkenberg/nichul01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c85a"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 17,
+  "driver_number": 30,
+  "full_name": "Liam LAWSON",
+  "team_name": "Racing Bulls",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LIALAW01_Liam_Lawson/lialaw01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c85b"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 18,
+  "driver_number": 31,
+  "full_name": "Esteban OCON",
+  "team_name": "Haas F1 Team",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c85c"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 7,
+  "driver_number": 44,
+  "full_name": "Lewis HAMILTON",
+  "team_name": "Ferrari",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c85d"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 14,
+  "driver_number": 55,
+  "full_name": "Carlos SAINZ",
+  "team_name": "Williams",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c85e"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 5,
+  "driver_number": 63,
+  "full_name": "George RUSSELL",
+  "team_name": "Mercedes",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c85f"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 3,
+  "driver_number": 81,
+  "full_name": "Oscar PIASTRI",
+  "team_name": "McLaren",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
+  "year": "2025",
+  "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OSCPIA01_Oscar_Piastri/oscpia01.png.transform/1col/image.png"
+},
+{
+  "_id": {
+    "$oid": "67f8b18d30982c1832f2c860"
+  },
+  "session_key": 10006,
+  "session_type": "Race",
+  "position": 10,
+  "driver_number": 87,
+  "full_name": "Oliver BEARMAN",
+  "team_name": "Haas F1 Team",
+  "lap_number": 53,
+  "circuit_key": 46,
+  "location": "Suzuka",
   "year": "2025",
   "headshot_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OLIBEA01_Oliver_Bearman/olibea01.png.transform/1col/image.png"
 }]
