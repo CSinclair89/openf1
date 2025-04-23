@@ -5,10 +5,17 @@ fetch('../data/race_data.json')
         const sortOptions = document.getElementById('sort-options');
         const driverMap = new Map(); 
        
-
+        // =============== Drivers Section ===================
         if (driversList) {
             data.forEach(entry => {
-                if (entry.full_name && entry.driver_number && entry.headshot_url && entry.team_name) {
+                if (
+                    entry.full_name &&
+                    entry.driver_number &&
+                    entry.headshot_url && // Ensure headshot_url exists
+                    typeof entry.headshot_url === 'string' && // Ensure it's a valid string
+                    entry.headshot_url.trim() !== '' && // Ensure it's not empty
+                    entry.team_name
+                ) {
                     if (!driverMap.has(entry.driver_number)) {
                         driverMap.set(entry.driver_number, {
                             name: entry.full_name,
@@ -19,32 +26,39 @@ fetch('../data/race_data.json')
                     }
                 }
             });
-
+        
             const driverList = Array.from(driverMap.values());
-
+        
             const renderDrivers = (sortedDrivers) => {
                 driversList.innerHTML = ''; 
                 sortedDrivers.forEach(driver => {
                     const listItem = document.createElement('li');
                     listItem.innerHTML = `
-                        <img src="${driver.photo}" alt="${driver.name}">
-                        <strong>${driver.name}</strong> (Number: ${driver.number})<br>
-                        Team: ${driver.team}
-                    `;
+                        <div class="driver-info">
+                            <img src="${driver.photo}" alt="${driver.name}">
+                              <div class="driver-details">
+                                 <strong>${driver.name}</strong>
+                            </div>
+                         </div>
+                        <div class="driver-meta">
+                             <div>Number: ${driver.number}</div>
+                             <div>Team: ${driver.team}</div>
+                         </div>
+        `;
                     driversList.appendChild(listItem);
                 });
             };
-
+        
             const sortByNumber = () => driverList.sort((a, b) => a.number - b.number);
-
+        
             const sortByName = () => driverList.sort((a, b) => {
                 const lastNameA = a.name.split(' ').slice(-1)[0].toLowerCase();
                 const lastNameB = b.name.split(' ').slice(-1)[0].toLowerCase();
                 return lastNameA.localeCompare(lastNameB);
             });
-
+        
             const sortByTeam = () => driverList.sort((a, b) => a.team.localeCompare(b.team));
-
+        
             if (sortOptions) {
                 sortOptions.addEventListener('change', (event) => {
                     if (event.target.value === 'number') {
@@ -57,18 +71,21 @@ fetch('../data/race_data.json')
                     renderDrivers(driverList);
                 });
             }
-
+        
             // this is the default when loading the page (just sorts by number)
             sortByNumber();
             renderDrivers(driverList);
         }
 
-        // Races Section
+        // =============== Races Section ===================
         const racesList = document.getElementById('races');
         const toggleRaces = document.getElementById('toggle-races');
         if (racesList) {
             const races = new Map();
-
+            const locationFilter = document.getElementById('location-filter');
+        
+           
+            const locations = new Set();
             data.forEach(entry => {
                 if (entry.session_key && entry.location && entry.year && entry.session_type) {
                     if (!races.has(entry.session_key)) {
@@ -78,18 +95,38 @@ fetch('../data/race_data.json')
                             sessionType: entry.session_type,
                             drivers: []
                         });
+                        locations.add(entry.location); 
                     }
-                    races.get(entry.session_key).drivers.push({
-                        name: entry.full_name,
-                        position: entry.position
-                    });
+            
+                   
+                    const race = races.get(entry.session_key);
+            
+                    
+                    const driverExists = race.drivers.some(driver => driver.name === entry.full_name);
+            
+                    if (!driverExists) {
+                        race.drivers.push({
+                            name: entry.full_name,
+                            position: entry.position
+                        });
+                    }
                 }
             });
-
-            const renderRaces = (filterByRace = false) => {
-                racesList.innerHTML = ''; 
+            //add location sortings
+            locations.forEach(location => {
+                const option = document.createElement('option');
+                option.value = location;
+                option.textContent = location;
+                locationFilter.appendChild(option);
+            });
+        
+            const renderRaces = (filterByRace = false, selectedLocation = 'all') => {
+                racesList.innerHTML = '';
                 races.forEach((race, sessionKey) => {
                     if (filterByRace && race.sessionType.toLowerCase() !== 'race') {
+                        return;
+                    }
+                    if (selectedLocation !== 'all' && race.location !== selectedLocation) {
                         return;
                     }
         
@@ -113,16 +150,39 @@ fetch('../data/race_data.json')
                     racesList.appendChild(listItem);
                 });
             };
-            //init state
+        
+            
             renderRaces();
-
+        
+           
             toggleRaces.addEventListener('change', (event) => {
-                renderRaces(event.target.checked); 
+                const selectedLocation = locationFilter.value;
+                renderRaces(event.target.checked, selectedLocation);
+            });
+        
+            
+            locationFilter.addEventListener('change', (event) => {
+                const filterByRace = toggleRaces.checked;
+                renderRaces(filterByRace, event.target.value);
             });
         }
 
+        // =============== Graph Section ===================
+       // f1 position to points mapping
+        const pointsMap = {
+            1: 25,
+            2: 18,
+            3: 15,
+            4: 12,
+            5: 10,
+            6: 8,
+            7: 6,
+            8: 4,
+            9: 2,
+            10: 1
+        };
 
-        // Graph on Home Page
+
         const placements = {};
 
         data.forEach(entry => {
@@ -132,19 +192,20 @@ fetch('../data/race_data.json')
             if (!placements[driver]) {
                 placements[driver] = [];
             }
-            placements[driver].push(position);
+            const points = pointsMap[position] || 0;
+            placements[driver].push(points);
         });
 
-        const averagePositions = Object.keys(placements).map(driver => {
-            const total = placements[driver].reduce((sum, pos) => sum + pos, 0);
+        const averagePoints = Object.keys(placements).map(driver => {
+            const total = placements[driver].reduce((sum, points) => sum + points, 0);
             const avg = total / placements[driver].length;
             return { driver, avg };
         });
 
-        averagePositions.sort((a, b) => a.avg - b.avg);
+        averagePoints.sort((a, b) => b.avg - a.avg); 
 
-        const drivers = averagePositions.map(item => item.driver);
-        const averages = averagePositions.map(item => item.avg);
+        const drivers = averagePoints.map(item => item.driver);
+        const averages = averagePoints.map(item => item.avg);
 
         const ctx = document.getElementById('driverPerformanceChart')?.getContext('2d');
         if (ctx) {
@@ -153,7 +214,7 @@ fetch('../data/race_data.json')
                 data: {
                     labels: drivers,
                     datasets: [{
-                        label: 'Average Position',
+                        label: 'Average Points',
                         data: averages,
                         backgroundColor: 'rgba(75, 192, 192, 0.2)',
                         borderColor: 'rgba(75, 192, 192, 1)',
@@ -170,5 +231,5 @@ fetch('../data/race_data.json')
                 }
             });
         }
-    })
+            })
     .catch(error => console.error('Error loading data:', error));
