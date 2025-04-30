@@ -1,0 +1,1 @@
+Our goal with this project is to navigate the OpenF1 API with the intention of fetching, optimizing, and visualizing data for the purposes of displaying said data to a custom-built website and predicting the likely results of the official Formula One race held on April 20th, 2025 located in Jeddah, Saudi Arabia.
